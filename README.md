@@ -12,3 +12,10 @@ Parallel implementation of Viscoelastic EFIT (Elastodynamic Finite Integration T
 - Capable to simulate Ultrasonic NDT inspection systems: Pulse-echo, Through-Transmission, Linear Scan, Radial Scan, Tomography 
 - Capable to generate various type of geometric scenarios
 - Capable to export simulation results in .Mat-File Format
+
+___
+
+if you are interesting in collaborating and/or testing this software, please don't hesitate to contact me
+
+
+
