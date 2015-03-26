@@ -1,6 +1,6 @@
 # SimNDT
 
-
+![](https://github.com/mmolero/SimNDT/blob/master/resources/SimNDT.gif)
 
 
 Software simulator written in Python with the following features:
