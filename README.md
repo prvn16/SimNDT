@@ -1,7 +1,6 @@
-# SimNDT
+# SimNDT  <img src="resources/logo-SimNDT.png" width="60", height="60">
 
 ![](https://github.com/mmolero/SimNDT/blob/master/resources/SimNDT.gif)
-
 
 Software simulator written in Python with the following features:
 
