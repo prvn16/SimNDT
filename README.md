@@ -1,4 +1,4 @@
-# <img src="resources/logo-SimNDT.png" width="60", height="60"> SimNDT  
+# <img src="resources/logo-SimNDT.png" width="40", height="40"> SimNDT  
 
 ![](https://github.com/mmolero/SimNDT/blob/master/resources/SimNDT.gif)
 
