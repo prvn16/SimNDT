@@ -16,5 +16,9 @@ ___
 
 if you are interesting in collaborating and/or testing this software, please don't hesitate to contact me
 
+___
+
+Please check the first pre-release https://github.com/mmolero/SimNDT/releases
+
 
 
